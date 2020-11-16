@@ -94,7 +94,6 @@ quit - to exit the game
     else:
         print("sorry i don't understand")
 
-
 for name in ['Yusuff' , 'Rahma' , 'Zainab' , 'Qasim' , 'Aisha' , 'Ahmad' , 'adburrahman' ]:
     print(name)
 
